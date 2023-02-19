@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>project on Ellen&#39;s blog</title>
+    <title>project on Ellen Xu</title>
     <link>https://xu-ellen.github.io/blog/tags/project/</link>
-    <description>Recent content in project on Ellen&#39;s blog</description>
+    <description>Recent content in project on Ellen Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ellen Xu</copyright>
@@ -14,13 +14,13 @@
     
     <item>
       <title>Geodesic dome</title>
-      <link>https://xu-ellen.github.io/blog/posts/projects/dome/</link>
+      <link>https://xu-ellen.github.io/blog/posts/dome/</link>
       <pubDate>Mon, 16 Aug 2021 11:00:39 -0800</pubDate>
       
-      <guid>https://xu-ellen.github.io/blog/posts/projects/dome/</guid>
+      <guid>https://xu-ellen.github.io/blog/posts/dome/</guid>
       <description>A low-cost (&amp;lt;$300), 9-foot diameter geodesic dome build.
 Geodesic domes:
- sturdiest dome (&amp;ldquo;strongest, most energy efficient structure known to man&amp;rdquo;) light-weight, yet has highest weight-bearing capacity idea is to subdivide platonic polyhedra inscribed in a sphere, but using flat triangular pieces (2f geodesic dome has 2 edges per edge in icosaedron)  3D printed model:   Final build:     </description>
+ sturdiest dome (&amp;ldquo;strongest, most energy efficient structure known to man&amp;rdquo;) light-weight, yet has highest weight-bearing capacity idea is to subdivide platonic polyhedra inscribed in a sphere, but using flat triangular pieces (2f geodesic dome has 2 edges per edge in icosaedron)    3d printed model     Exterior     Interior   </description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 baseURL = "https://xu-ellen.github.io/blog/"
 languageCode = "en-us"
-title = "Ellen's blog"
+title = "Ellen Xu"
 theme = "cactus"
 copyright = "Ellen Xu"
 # googleAnalytics = "UA-1234-5"
@@ -11,7 +11,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Blog"
+name = "Writing"
 url = "/posts"
 weight = 2
 
@@ -26,8 +26,8 @@ weight = 2
   description = '''Welcome to my little corner of the Internet :)\
   I write about learning, musings, and occasionally poetry.
   '''
-  mainSection = "Blog" # your main section
-  mainSectionTitle = "Blog"
+  mainSection = "Writing" # your main section
+  mainSectionTitle = "Writing"
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.

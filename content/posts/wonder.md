@@ -1,6 +1,6 @@
 ---
 title: "Wonder"
-images: ["/images/wonder.png"]
+images: ["/blog/images/wonder.png"]
 date: 2022-09-26T11:00:39-08:00
 draft: false 
 tags: ["poetry", "notebook"]
@@ -20,4 +20,4 @@ to have such a love for the world, happiness, & people
 
 ---
 
-![wonder](/images/wonder.png)
+{{<figure src="/blog/images/wonder.png" title="Wonder + Humor">}}

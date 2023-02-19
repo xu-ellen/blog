@@ -5,8 +5,6 @@ draft: false
 tags: ["essay"]
 ---
 
-*An unpolished thought dump in response to "What is meaning?"*
-
 Meaning, in my understanding, is the gestalt or Aristotelian theory that the sum is greater than its parts. When people say they are searching for a meaning to life, they are actually talking about the search for a higher level objective (the sum) than simply the day to day action of staying alive (the parts). It is more easily described in the abstract: a book possesses more value than its constituent letters, a memory is more vivid than simply a train of thoughts marching along.
 
 The history of humanity, at its core, has been a search for meaning. It is what philosophers in Greco-Roman society dwelled on, it is disguised as the ultimate question within heroic epics and fables and, more explicitly, koans, it is what drives us to stay on the pursuit of living. Plainly stated, this question is: Is there really an underlying meaning to reality?
