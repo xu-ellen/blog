@@ -24,7 +24,7 @@ weight = 2
 
   # Home page settings
   description = '''Welcome to my little corner of the Internet :)\
-  I write about learning, musings, and occasionally poetry.
+  I write about learnings, musings, and occasionally poetry.
   '''
   mainSection = "Writing" # your main section
   mainSectionTitle = "Writing"

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/mnt/c/Users/ellen/Documents/code/blog/blog",
+	"sourceRoot": "/mnt/c/Users/ellen/Documents/code/blog",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
