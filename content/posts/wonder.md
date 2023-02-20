@@ -1,6 +1,6 @@
 ---
 title: "Wonder"
-images: ["/blog/images/wonder.png"]
+images: ["/blog/images/wonder/wonder.png", "/blog/images/wonder/feynman.png"]
 date: 2022-09-26T11:00:39-08:00
 draft: false 
 tags: ["poetry", "notebook"]
@@ -20,4 +20,5 @@ to have such a love for the world, happiness, & people
 
 ---
 
-{{<figure src="/blog/images/wonder.png" title="Wonder + Humor">}}
+{{<figure src="/blog/images/wonder/wonder.png" title="Wonder + Humor">}}
+{{<figure src="/blog/images/wonder/feynman.png" title="Inspired by Feynman">}}
